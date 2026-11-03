@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+<img src="https://<API-DOMAIN>/v1/city/gilberttech123.svg" width="100%" alt="Kota Pixel" />
 <!--
 **gilberttech123/gilberttech123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
