@@ -1,5 +1,5 @@
 ## Hi there 👋
-<img src="https://pixel-city.2217051118.workers.dev/v1/city/gilberttech123.svg" width="100%" alt="Kota Pixel" />
+<img src="https://pixel-city.2217051118.workers.dev/v1/city/gilberttech123.svg" width="80%" alt="Kota Pixel" />
 <!--
 **gilberttech123/gilberttech123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
